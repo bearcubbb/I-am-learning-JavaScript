@@ -1,0 +1,49 @@
+/* п о з и ц и о н и р о в а н и е */
+
+/* б л о ч н а я  м о д е л ь */
+.container__main {
+    display: grid;
+
+    height: 740px;
+
+    margin-top: 5%;
+
+}
+
+/* т и п о г р а ф и к а */
+
+h1,
+p {
+
+    font-family: "Montserrat Alternates", sans-serif;
+    color: white;
+}
+
+h1 {
+    font-weight: 500;
+    font-style: normal;
+
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+
+    padding-top: 8%;
+}
+
+p {
+    font-weight: 400;
+    font-style: italic;
+
+    text-align: center;
+}
+
+
+/* о ф о р м л е н и е */
+
+.container__main {
+    background-image: url(/assets/images/background-by-eveling-salazar-unsplash.jpg);
+}
+
+/* а н и м а ц и я */
+
+/* р а з н о е */
